@@ -96,9 +96,9 @@ Sistem akan memeriksa apakah password dan konfirmasi password yang dimasukkan sa
 
 **3. Light Mode dan Dark Mode**
 
-<img width="120" height="70" alt="Image" src="https://github.com/user-attachments/assets/99bf14e5-e728-459f-9ca2-cd3b44339e15" />
+<img width="131" height="67" alt="Image" src="https://github.com/user-attachments/assets/4ef76a94-f5c4-416d-a351-6653677994c5" />
 
-<img width="120" height="70" alt="Image" src="https://github.com/user-attachments/assets/d5c08b16-3959-4d03-8201-840ae324974f" />
+<img width="116" height="62" alt="Image" src="https://github.com/user-attachments/assets/7b97a4ea-56dc-4070-964c-3634d65650a5" />
 
 Aplikasi ini menyediakan fitur penggantian tema tampilan antara Light Mode dan Dark Mode melalui tombol toggle yang tersedia pada halaman utama aplikasi. Fitur ini memungkinkan pengguna untuk menyesuaikan tampilan aplikasi agar lebih nyaman digunakan sesuai dengan preferensi maisng-masing.
 
