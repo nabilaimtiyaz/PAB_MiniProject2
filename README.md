@@ -110,11 +110,11 @@ Toggle tema ini hanya dapat digunakan setelah pengguna berhasil melakukan login 
 
 ( Light Mode )
 
-<img width="1910" height="869" alt="Image" src="https://github.com/user-attachments/assets/772f0656-45f3-4af5-88fb-fa518dd7a3a3" />
+<img width="1908" height="866" alt="Image" src="https://github.com/user-attachments/assets/4d76951f-aafa-4788-8436-b36e88c24eec" />
 
 ( Dark Mode)
 
-<img width="1906" height="863" alt="Image" src="https://github.com/user-attachments/assets/d9453a12-cb2a-4f9e-a725-471410d721d4" />
+<img width="1909" height="864" alt="Image" src="https://github.com/user-attachments/assets/fdafe76a-008d-4387-9ba3-a0de6f0b2e4e" />
 
 Gambar diatas adalah halaman yang akan ditampilkan setelah pengguna berhasil melakukan login atau registrasi pada aplikasi. Halaman ini berfungsi sebagai dashboard utama yang menyediakan akses ke fitur-fitur utama dalam aplikasi Intellecta Bimbel.
 
@@ -126,11 +126,11 @@ Pada halaman ini pengguna dapat melihat identitas aplikasi serta dua menu uatama
 
 ( Light Mode )
 
-<img width="1908" height="866" alt="Image" src="https://github.com/user-attachments/assets/eac4e9af-aafa-4d02-baa0-0961b5391824" />
+<img width="1908" height="866" alt="Image" src="https://github.com/user-attachments/assets/dc9e6f07-3863-4e59-80c5-7b49ecb2ab70" />
 
 ( Dark Mode )
 
-<img width="1909" height="864" alt="Image" src="https://github.com/user-attachments/assets/3487c4a6-9aa5-4eaf-9bd2-6212b0a689eb" />
+<img width="1905" height="861" alt="Image" src="https://github.com/user-attachments/assets/06737425-4fb8-4191-9c25-bc5429f0a95b" />
 
 Fitur ini digunakan untuk memilih mata pelajaran sebelum pengguna menambahkan data siswa ke dalam sistem. Setelah pengguna menekan menu "Input Data Siswa" pada halaman utama, aplikasi akan menampilkan halaman utama pemilihan mata pelajaran ini.
 
@@ -140,11 +140,11 @@ Fitur ini digunakan untuk memilih mata pelajaran sebelum pengguna menambahkan da
 
 ( Light Mode )
 
-<img width="1906" height="865" alt="Image" src="https://github.com/user-attachments/assets/de2b7926-912d-44df-98bb-14ee0452714a" />
+<img width="1906" height="866" alt="Image" src="https://github.com/user-attachments/assets/d7e59daf-2d7d-41b2-9286-9d7ae51fd2d2" />
 
 ( Dark Mode )
 
-<img width="1902" height="863" alt="Image" src="https://github.com/user-attachments/assets/7e1df2ce-b46e-483b-bbce-88c3bd636821" />
+<img width="1901" height="868" alt="Image" src="https://github.com/user-attachments/assets/2a311312-5eaf-42b0-b32c-1ccfc6a9d3ea" />
 
 Fitur ini memungkinkan pengguna untuk menambahkan data siswa baru ke dalam database. Pengguna dapat mengisi berbagai informasi siswa seperti nama, tempat tanggal lahir, alamat, nomor HP, sekolah, jadwal bimbel, serta mata pelajaran yang diikuti. Data yang diinput melalui form akan disimpan ke database Supabase.
 
@@ -154,11 +154,11 @@ Fitur ini memungkinkan pengguna untuk menambahkan data siswa baru ke dalam datab
 
 ( Light Mode )
 
-<img width="1910" height="868" alt="Image" src="https://github.com/user-attachments/assets/3d46dafd-91d2-45f7-9560-df750d767836" />
+<img width="1905" height="865" alt="Image" src="https://github.com/user-attachments/assets/0e41f254-3052-422d-9f61-df21ad280a3e" />
 
 ( Dark Mode )
 
-<img width="1910" height="866" alt="Image" src="https://github.com/user-attachments/assets/3b738272-19dd-4341-b319-e6d101e82bce" />
+<img width="1905" height="866" alt="Image" src="https://github.com/user-attachments/assets/52eaaa3a-3c88-470d-abda-385d2c3c8456" />
 
 Fitur ini berfungsi untuk menampilkan seluruh data siswa yang tersimpan di database Supabase. Data tersebut ditampilkan pada halaman rekap data dan disusun sesuai dengan mata pelajaran yang dpipilih, sehingga pengguna dapat melihat daftar siswa yang telah terdaftar pada bimbingan belajar dengan lebih terstruktur.
 
@@ -168,11 +168,11 @@ Fitur ini berfungsi untuk menampilkan seluruh data siswa yang tersimpan di datab
 
 ( Light Mode )
 
-<img width="1904" height="867" alt="Image" src="https://github.com/user-attachments/assets/6292a436-cef5-4181-b3f1-32fdf44852ed" />
+<img width="1906" height="864" alt="Image" src="https://github.com/user-attachments/assets/753aa6e0-af90-4b25-ae91-2dff72bb5573" />
 
 ( Dark Mode )
 
-<img width="1904" height="864" alt="Image" src="https://github.com/user-attachments/assets/9227e4c3-f73f-46c1-a31d-216b370790b1" />
+<img width="1902" height="868" alt="Image" src="https://github.com/user-attachments/assets/4837a5a9-0d3e-4d40-95a1-655d1f69b554" />
 
 Selain menampilkan daftar siswa, aplikasi juga menyediakan halaman detail yang berbentuk Card dimana pengguna dapat melihat informasi lengkap dari setiap siswa. 
 
@@ -182,11 +182,11 @@ Selain menampilkan daftar siswa, aplikasi juga menyediakan halaman detail yang b
 
 ( Light Mode )
 
-<img width="1905" height="868" alt="Image" src="https://github.com/user-attachments/assets/3725b5e3-8ae4-4926-b1c0-06224e38d0be" />
+<img width="1906" height="866" alt="Image" src="https://github.com/user-attachments/assets/d7e59daf-2d7d-41b2-9286-9d7ae51fd2d2" />
 
 ( Dark Mode )
 
-<img width="1905" height="867" alt="Image" src="https://github.com/user-attachments/assets/e1c5fded-2df2-4f0d-9881-0921f83c571d" />
+<img width="1901" height="868" alt="Image" src="https://github.com/user-attachments/assets/2a311312-5eaf-42b0-b32c-1ccfc6a9d3ea" />
 
 Fitur Edit Data pada halaman ini dapat digunakan oleh pengguna untuk mengubah atau memperbarui data siswa yang sebelumnya sudah tersimpan di database. Pengguna dapat memilih data siswa mana yang ingin diedit, dengan mengklik tombol yang bergambar pensil disebelah kanan dari nama siswa tersebut.
 
@@ -196,11 +196,11 @@ Fitur Edit Data pada halaman ini dapat digunakan oleh pengguna untuk mengubah at
 
 ( Light Mode )
 
-<img width="599" height="262" alt="Image" src="https://github.com/user-attachments/assets/0eba074a-30da-4bcf-af50-9f48e1142b95" />
+<img width="597" height="261" alt="Image" src="https://github.com/user-attachments/assets/bdda9958-d019-4a3d-a777-ccaac4403d0b" />
 
 ( Dark Mode )
 
-<img width="596" height="263" alt="Image" src="https://github.com/user-attachments/assets/d0352ceb-81c9-4f77-83a7-c0e2ceae86ff" />
+<img width="594" height="262" alt="Image" src="https://github.com/user-attachments/assets/124e855d-a90d-4646-be3d-70b308fde199" />
 
 Fitur ini digunakan untuk menghapus data siswa dari database Supabase.
 
