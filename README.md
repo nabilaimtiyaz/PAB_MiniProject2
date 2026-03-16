@@ -38,7 +38,7 @@ Berikut ini adalah penjelasan dari tiap fitur yang ada dalam aplikasi:
 
 **1. Login**
 
-<img width="1906" height="862" alt="Image" src="https://github.com/user-attachments/assets/6220159e-aadb-4179-953f-386d0e8e30e6" />
+<img width="1909" height="865" alt="Image" src="https://github.com/user-attachments/assets/92fabae9-5caf-477c-93de-4478d011cdeb" />
 
 Fitur login digunakan untuk proses autentikasi sebelum dapat mengakses aplikasi bagi pengguna yang sudah memiliki akun atau yang sudah melakukan registrasi. 
 
