@@ -72,11 +72,11 @@ Ketika pengguna ternyata sudah pernah melakukan register sebelumnya, dapat memen
 
 ---
 
-<img width="307" height="61" alt="Image" src="https://github.com/user-attachments/assets/a71242cf-8636-4f23-8449-0fa6ee0e8c64" />
+<img width="299" height="63" alt="Image" src="https://github.com/user-attachments/assets/b00d84ea-eb1a-4c76-a18a-4cc813735a13" />
 
-<img width="348" height="57" alt="Image" src="https://github.com/user-attachments/assets/44e694b2-a90c-4636-aadf-5312db3133bc" />
+<img width="346" height="62" alt="Image" src="https://github.com/user-attachments/assets/454490d3-e38d-4bc2-b4a1-1c4cbda442a1" />
 
-<img width="268" height="58" alt="Image" src="https://github.com/user-attachments/assets/c1af7d8a-5f30-4b86-8da9-53717a960d3a" />
+<img width="275" height="62" alt="Image" src="https://github.com/user-attachments/assets/26a22e21-548a-4718-96d7-5e710b9f1f88" />
 
 Ini adalah validasi input pada form registrasi, yang mana aplikasi ini dilengkapi dengan sistem vaidasi input untuk memastikan data yang dimasukkan oleh pengguna sudah sesuai sebelum diproses oelh sistem. Validasi ini membantu mencegah kesalahan input dan meningkatkan keamanan data.
 
