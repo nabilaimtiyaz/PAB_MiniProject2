@@ -44,7 +44,7 @@ Fitur login digunakan untuk proses autentikasi sebelum dapat mengakses aplikasi 
 
 ---
 
-<img width="274" height="274" alt="Image" src="https://github.com/user-attachments/assets/2066de63-f789-45d8-ac52-9aab9320e35f" />
+<img width="264" height="264" alt="Image" src="https://github.com/user-attachments/assets/e0ef6215-8b95-4efa-9dbd-aec2716d3a0f" />
 
 Dengan memasukkan email dna password nya dengan benar, pengguna dapat langsung masuk ke halaman berikutnya di aplikasi.
 
