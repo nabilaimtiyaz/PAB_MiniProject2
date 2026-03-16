@@ -58,7 +58,7 @@ Jika pengguna salah memasukkan email atau password maka akan ada validasi bahwa 
 
 **2. Register**
 
-<img width="1907" height="862" alt="Image" src="https://github.com/user-attachments/assets/bc5d491b-ee18-4128-b952-df5478a8fe58" />
+<img width="1907" height="865" alt="Image" src="https://github.com/user-attachments/assets/6f564616-0823-46df-8532-5cb7724c9af6" />
 
 Fitur Register digunakan ketika pengguna belum membuat akun pribadinya untuk masuk dan mengakses fitur lain dalam aplikasi.
 
