@@ -64,7 +64,7 @@ Fitur Register digunakan ketika pengguna belum membuat akun pribadinya untuk mas
 
 ---
 
-<img width="274" height="374" alt="Image" src="https://github.com/user-attachments/assets/ce4d4f87-c57c-4cca-b764-ab045e2bf183" />
+<img width="264" height="364" alt="Image" src="https://github.com/user-attachments/assets/01af1892-824a-4ae3-b26d-4206ed94ceb1" />
 
 Dalam form register, pengguna harus memasukkan email, password yang minimal terdapat 6 karakter lalu mengonfirmasi lagi password yang sudah dimasukkan, dan yang terakhir yaitu nomor handphone dengan minimal 10 angka dan hanya dapat memasukkan angka saja.
 
