@@ -50,7 +50,7 @@ Dengan memasukkan email dna password nya dengan benar, pengguna dapat langsung m
 
 ---
 
-<img width="690" height="64" alt="Image" src="https://github.com/user-attachments/assets/4d935efe-35e4-4c52-9930-862c1297b7af" />
+<img width="679" height="67" alt="Image" src="https://github.com/user-attachments/assets/bad17283-57ca-45b0-b238-2dfd3e8c2fe3" />
 
 Jika pengguna salah memasukkan email atau password maka akan ada validasi bahwa login gagal dan pengguna dapat memeriksa kembali email dan password nya.
 
